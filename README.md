@@ -9,7 +9,7 @@ PC installed with SCILAB
 clc; 
 clear; 
 
-xn = [1 4 1 4 1 4 1 4]; 
+xn = [1 2 1 2 1 2 1 2]; 
 
 n1 = 0:1:length(xn)-1; 
 subplot(3,1,1); 
@@ -48,13 +48,19 @@ ylabel('Phase');
 title('Phase spectrum');
 ```
 ## CALCULATIONS:
-<img width="1008" height="1600" alt="image" src="https://github.com/user-attachments/assets/9fa24d62-576c-4df8-8acc-f18f8a4c0a43" />
-<img width="981" height="1600" alt="image" src="https://github.com/user-attachments/assets/b35cec87-1ecb-48dc-ba72-974e929e380c" />
-<img width="960" height="1600" alt="image" src="https://github.com/user-attachments/assets/6a95902f-f418-4345-b265-814399236287" />
+
+<img width="899" height="1599" alt="image" src="https://github.com/user-attachments/assets/f0a39507-9beb-43e2-b122-66f95c679793" />
+<img width="899" height="1599" alt="image" src="https://github.com/user-attachments/assets/1bb660d5-ab3d-4a18-84da-d9276359c3f3" />
+<img width="899" height="1599" alt="image" src="https://github.com/user-attachments/assets/3b345c93-f4f0-4676-97f2-0acd58eb1e96" />
+<img width="899" height="1599" alt="image" src="https://github.com/user-attachments/assets/803112f4-2749-4c9d-9085-a9c62ab895e5" />
+<img width="899" height="1599" alt="image" src="https://github.com/user-attachments/assets/c37067bf-7d62-472a-a377-65671e1e38a3" />
+
+
 
 
 ## SAMPLE OUTPUT:
-<img width="1600" height="1000" alt="image" src="https://github.com/user-attachments/assets/c264b591-8e57-47e8-ba28-cc11fff6c784" />
+
+<img width="1599" height="899" alt="image" src="https://github.com/user-attachments/assets/24fb7f48-b522-48ec-8a58-0cb450de8201" />
 
 
 
